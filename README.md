@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# frontend
-Frontend platform for players, organizers, and referees to join tournaments, manage prize pools, verify results, track brackets, and claim Stellar-based rewards.
-=======
 # 🏆 Tournament Escrow — Frontend
 
 Decentralized esports prize pool platform built on [Stellar](https://stellar.org). Prize money is locked on-chain via Soroban smart contracts and released automatically when trusted referees reach consensus — no organizer can run away with the funds.
@@ -108,9 +104,9 @@ All on-chain amounts are in **stroops** (`1 XLM = 10,000,000 stroops`). The UI c
 
 - [ ] Wallet integration (Freighter / Stellar Wallet Kit)
 - [ ] Organizer controls — start, cancel, await-result
-- [ ] Dispute raise & resolve UI
+- [ ] Dispute raise & resolve UIx
 - [ ] Payout manager & platform fee dashboard
 - [ ] Leaderboard & player profiles
 - [ ] NFT tournament tickets
 - [ ] DAO governance for referee selection
->>>>>>> b9b8d9a (stellar-tournament-escrow frontend)
+
